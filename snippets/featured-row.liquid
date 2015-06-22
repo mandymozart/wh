@@ -17,12 +17,12 @@
   {% if header_title %}
     <p class="h1{% if more_link %} section-header--left{% endif %}">{{ header_title }}</p>
   {% endif %}
-  {% if more_link %}
+{% comment %}  {% if more_link %}
     <div class="section-header--right">
       {% assign header_title = header_title | downcase %}
       <a href="{{ more_link }}">{{ 'homepage.featured_collection_rows.more_in_collection' | t: collection_title: header_title }} &rsaquo;</a>
     </div>
-  {% endif %}
+  {% endif %}{% endcomment %}
 </div>
 
 <div class="grid-uniform row-negative-bottom">
