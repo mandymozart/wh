@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="205125ed-f605-42b9-8567-20ac0628e7f5" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\ajaxify.js.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\ajaxify.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\ajaxify.scss.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-down.svg.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\checkout.css.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\collection-view-grid.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\collection-view-list.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\hamburger.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\handlebars.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\jquery.flexslider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\jquery.zoom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\remove.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\respond-proxy.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\shop.js.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\slide_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\slide_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\timber.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\timber.scss.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\wh.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\config\settings_data.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\config\settings_schema.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\layout\theme.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\de.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\en.default.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\es.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\fr.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\pt-BR.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\pt-PT.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\advanced-tag-loop.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\ajax-cart-template.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\blog-sidebar.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\breadcrumb.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-grid-item.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-list-item.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-sidebar.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-sorting.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-views.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\comment.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\featured-collection.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\featured-row.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\form-errors-custom.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\google-fonts.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\newsletter-form.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\oldIE-js.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\open-graph-tags.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\pagination-custom.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\price-sale.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\price.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\product-grid-item.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\product-list-item.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\related-products.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\respond.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\search-bar.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\search-result-grid.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\search-result.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\site-nav.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\slider.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\social-sharing.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\tags-article.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\toggle-filters.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\twitter-card.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\404.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\article.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\blog.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\cart.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\collection.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\collection.list.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\account.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\activate_account.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\addresses.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\login.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\order.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\register.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\reset_password.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\gift_card.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\index.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\list-collections.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\page.contact.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\page.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\product.liquid" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\search.liquid" afterPath="" />
+    </list>
+    <ignored path="wh.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wh" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="theme.liquid" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/layout/theme.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.3384614" vertical-offset="10318" max-vertical-offset="15147">
+              <caret line="395" column="45" selection-start-line="395" selection-start-column="39" selection-end-line="395" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.liquid" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop/templates/product.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.53634083" vertical-offset="8374" max-vertical-offset="9774">
+              <caret line="326" column="57" selection-start-line="326" selection-start-column="57" selection-end-line="326" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timber.scss.liquid" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/assets/timber.scss.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.676923" vertical-offset="60133" max-vertical-offset="98820">
+              <caret line="2236" column="19" selection-start-line="2236" selection-start-column="19" selection-end-line="2236" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.liquid" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/templates/index.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="329" max-vertical-offset="4239">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="de.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/locales/de.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5170" max-vertical-offset="8316">
+              <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings_data.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/config/settings_data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1895" max-vertical-offset="3537">
+              <caret line="83" column="194" selection-start-line="83" selection-start-column="194" selection-end-line="83" selection-end-column="194" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax-cart-template.liquid" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/snippets/ajax-cart-template.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1792" max-vertical-offset="2619">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.liquid" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/templates/cart.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.2222223" vertical-offset="3052" max-vertical-offset="3969">
+              <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="breadcrumb.liquid" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/snippets/breadcrumb.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2565">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="related-products.liquid" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/snippets/related-products.liquid">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="972">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/layout/theme.liquid" />
+        <option value="$PROJECT_DIR$/shop/templates/index.liquid" />
+        <option value="$PROJECT_DIR$/shop/snippets/price.liquid" />
+        <option value="$PROJECT_DIR$/shop/assets/checkout.css.liquid" />
+        <option value="$PROJECT_DIR$/shop/assets/jquery.cart.min.js.js" />
+        <option value="$PROJECT_DIR$/shop/config/settings_schema.json" />
+        <option value="$PROJECT_DIR$/shop/snippets/ajax-cart-template.liquid" />
+        <option value="$PROJECT_DIR$/shop/snippets/shipping-calculator.liquid" />
+        <option value="$PROJECT_DIR$/shop/snippets/product-grid-item.liquid" />
+        <option value="$PROJECT_DIR$/shop/snippets/pagination-custom.liquid" />
+        <option value="$PROJECT_DIR$/shop/snippets/product-list-item.liquid" />
+        <option value="$PROJECT_DIR$/shop/templates/collection.list.liquid" />
+        <option value="$PROJECT_DIR$/shop/templates/collection.liquid" />
+        <option value="$PROJECT_DIR$/shop/assets/timber.scss" />
+        <option value="$PROJECT_DIR$/shop/assets/size-popup.html" />
+        <option value="$PROJECT_DIR$/shop/locales/de.json" />
+        <option value="$PROJECT_DIR$/shop/config/settings_data.json" />
+        <option value="$PROJECT_DIR$/shop/templates/cart.liquid" />
+        <option value="$PROJECT_DIR$/shop/layout/theme.liquid" />
+        <option value="$PROJECT_DIR$/shop/assets/timber.scss.liquid" />
+        <option value="$PROJECT_DIR$/shop/templates/product.liquid" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1034" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snippets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/xampp2015/htdocs/bitbucket/benzxmas" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205125ed-f605-42b9-8567-20ac0628e7f5" name="Default" comment="" />
+      <created>1435065176787</created>
+      <option name="number" value="Default" />
+      <updated>1435065176787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1034" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27292112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2516129" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shop/config/settings_schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="39487" max-vertical-offset="41499">
+          <caret line="1530" column="3" selection-start-line="1530" selection-start-column="3" selection-end-line="1530" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/shipping-calculator.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2025">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/product.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1782" max-vertical-offset="8586">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/checkout.css.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10076" max-vertical-offset="18495">
+          <caret line="385" column="20" selection-start-line="385" selection-start-column="20" selection-end-line="385" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/jquery.cart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/cart.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3118" max-vertical-offset="3915">
+          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/collection.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1701" max-vertical-offset="2646">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/product-grid-item.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1809">
+          <caret line="23" column="78" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/ajax-cart-template.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="2619">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/layout/theme.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14202">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/config/settings_schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="39487" max-vertical-offset="41499">
+          <caret line="1530" column="3" selection-start-line="1530" selection-start-column="3" selection-end-line="1530" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/shipping-calculator.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2025">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/product.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1782" max-vertical-offset="8586">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/checkout.css.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10076" max-vertical-offset="18495">
+          <caret line="385" column="20" selection-start-line="385" selection-start-column="20" selection-end-line="385" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/jquery.cart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/cart.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3118" max-vertical-offset="3915">
+          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/collection.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1701" max-vertical-offset="2646">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/product-grid-item.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1809">
+          <caret line="23" column="78" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/ajax-cart-template.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="2619">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/layout/theme.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14202">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/index.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/index.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/index.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="891">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/list-collections.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/wh.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/price.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.194445" vertical-offset="92" max-vertical-offset="972">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/ajaxify.js.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.46983758" vertical-offset="405" max-vertical-offset="29943">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/config/settings_schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="39487" max-vertical-offset="41499">
+          <caret line="1530" column="3" selection-start-line="1530" selection-start-column="3" selection-end-line="1530" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/checkout.css.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10076" max-vertical-offset="18495">
+          <caret line="385" column="20" selection-start-line="385" selection-start-column="20" selection-end-line="385" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/jquery.cart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/shipping-calculator.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2025">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/product-list-item.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1512">
+          <caret line="16" column="91" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/product-grid-item.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="415" max-vertical-offset="1809">
+          <caret line="23" column="78" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/pagination-custom.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="891">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/collection.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1699" max-vertical-offset="2538">
+          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/timber.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5555556" vertical-offset="35248" max-vertical-offset="97551">
+          <caret line="1314" column="1" selection-start-line="1314" selection-start-column="1" selection-end-line="1314" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/collection.list.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.75" vertical-offset="891" max-vertical-offset="1917">
+          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/size-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="405">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/search.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/breadcrumb.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2565">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/related-products.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="972">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/locales/de.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5170" max-vertical-offset="8316">
+          <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/index.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="329" max-vertical-offset="4239">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/config/settings_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1895" max-vertical-offset="3537">
+          <caret line="83" column="194" selection-start-line="83" selection-start-column="194" selection-end-line="83" selection-end-column="194" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/snippets/ajax-cart-template.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1792" max-vertical-offset="2619">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/cart.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.2222223" vertical-offset="3052" max-vertical-offset="3969">
+          <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/timber.scss.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.676923" vertical-offset="60133" max-vertical-offset="98820">
+          <caret line="2236" column="19" selection-start-line="2236" selection-start-column="19" selection-end-line="2236" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/assets/photoswipe.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="863">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/layout/theme.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3384614" vertical-offset="10318" max-vertical-offset="15147">
+          <caret line="395" column="45" selection-start-line="395" selection-start-column="39" selection-end-line="395" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/product.liquid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53634083" vertical-offset="8374" max-vertical-offset="9774">
+          <caret line="326" column="57" selection-start-line="326" selection-start-column="57" selection-end-line="326" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
