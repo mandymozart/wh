@@ -317,20 +317,34 @@
           </ul>
         </div>
 
-        {% unless shop.enabled_payment_types == empty %}
           <div class="grid-item large--three-fifths large--text-right">
             <ul class="inline-list payment-icons">
-              {% for type in shop.enabled_payment_types %}
                 <li>
                   <span class="icon-fallback-text">
-                    <span class="icon icon-{{ type }}" aria-hidden="true"></span>
-                    <span class="fallback-text">{{ type | replace: '_',' ' }}</span>
+                    <span class="icon icon-paypal" aria-hidden="true"></span>
+                    <span class="fallback-text">paypal</span>
                   </span>
                 </li>
-              {% endfor %}
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-visa" aria-hidden="true"></span>
+                    <span class="fallback-text">visa</span>
+                  </span>
+                </li>
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-master" aria-hidden="true"></span>
+                    <span class="fallback-text">mastercard</span>
+                  </span>
+                </li>
+                <li>
+                  <span class="icon-fallback-text">
+                   {{ 'sofort.svg' | asset_url | img_tag }}
+                    <span class="fallback-text">sofort</span>
+                  </span>
+                </li>
             </ul>
           </div>
-        {% endunless %}
 
       </div>
 

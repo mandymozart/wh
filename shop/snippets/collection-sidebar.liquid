@@ -17,6 +17,12 @@
       {% for cat_item in cat_array %}
         <div class="grid-item small--one-half medium--one-third">
           <h3>{{ cat_item }}</h3>
+          <a class="close" id="closeFilters" href="#">
+              <span class="icon-fallback-text">
+                <span class="icon icon-x" aria-hidden="true"></span>
+                <span class="fallback-text">Close</span>
+              </span>
+          </a>
           <ul class="advanced-filters">
             {% comment %}
               Loop through collection tags
@@ -70,6 +76,14 @@
       Provide a 'catch-all' link at the top of the list,
       we'd check against the collection.handle, product type, and vendor.
     {% endcomment %}
+    
+    <a class="close" id="closeFilters" href="#">
+        <span class="icon-fallback-text">
+          <span class="icon icon-x" aria-hidden="true"></span>
+          <span class="fallback-text">Close</span>
+        </span>
+    </a>
+
     <ul>
       {% if current_tags %}
         <li class="active-filter">

@@ -37,6 +37,7 @@ timber.cacheSelectors = function () {
     // Collection Pages
     $collectionFilters: $('#collectionFilters'),
     $toggleFilterBtn: $('#toggleFilters'),
+    $closeFilterBtn: $('#closeFilters'),
 
     // Equal height elements
     $featuredBoxes: $('.featured-box'),
@@ -71,6 +72,7 @@ timber.init = function () {
   timber.equalHeights();
   timber.responsiveVideos();
   timber.toggleFilters();
+  timber.closeFilters();
   timber.initBreakpoints();
 
   // Wait until fonts load to attempt creating 'more' link in nav
@@ -432,6 +434,17 @@ timber.toggleFilters = function () {
     });
   }
 };
+
+timber.closeFilters = function () {
+  if ( timber.cache.$collectionFilters.length ) {
+      timber.cache.$closeFilterBtn.on('click', function() {
+        event.preventDefault();
+        timber.cache.$toggleFilterBtn.toggleClass('is-active');
+        timber.cache.$collectionFilters.slideToggle(200);
+    });
+  }
+};
+
 
 timber.formatMoney = function (val) {
   
