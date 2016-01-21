@@ -437,8 +437,8 @@ timber.toggleFilters = function () {
 
 timber.closeFilters = function () {
   if ( timber.cache.$collectionFilters.length ) {
-      timber.cache.$closeFilterBtn.on('click', function() {
-        event.preventDefault();
+      timber.cache.$closeFilterBtn.on('click', function(e) {
+        e.preventDefault();
         timber.cache.$toggleFilterBtn.toggleClass('is-active');
         timber.cache.$collectionFilters.slideToggle(200);
     });

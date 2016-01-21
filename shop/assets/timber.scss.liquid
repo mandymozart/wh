@@ -2198,7 +2198,7 @@ $shareBorderColor: #ececec;
 
 .search-bar {
   position: relative;
-  max-width: 60%;
+  max-width: 42%;
   width: 100%;
   margin: 0 auto $gutter;
 
@@ -2223,20 +2223,20 @@ $shareBorderColor: #ececec;
       size: {{ settings.type_button_size }};
     };
     line-height: 24px!important;
-    position: absolute;
+    // position: absolute;
   }
 
   input[type="submit"],
   .search-bar--submit {
-    position: relative;
-    top: 7px;
+    position: absolute;
+    top: 0;
     bottom: 0;
     right: 0;
     width: 45px;
     margin: 0;
     border: 0 none;
     background: none;
-    text-align: right;
+    // text-align: right;
     cursor: pointer;
 
     .site-header & {
@@ -2258,6 +2258,7 @@ $shareBorderColor: #ececec;
 
     input[type="text"],
     input[type="search"] {
+      display: -moz-inline-stack;
       border: 0 none;
       background-color: $headerButtonAndSearch;
       color: color-control($headerButtonAndSearch);
@@ -2828,19 +2829,19 @@ a.product-grid-item,
   position: relative;
   display: block;
   padding: $gutter/2 0;
-  border: 1px solid $colorBorder;
+  // border: 1px solid $colorBorder;
   margin-bottom: $gutter;
 
-  &:after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,.02);
-    z-index: 5;
-  }
+  // &:after {
+  //   content: '';
+  //   position: absolute;
+  //   top: 0;
+  //   left: 0;
+  //   width: 100%;
+  //   height: 100%;
+  //   background-color: rgba(0,0,0,.02);
+  //   z-index: 5;
+  // }
 
   img {
     @include transition(opacity 0.1s ease-in-out);
@@ -2870,7 +2871,7 @@ a.product-grid-item,
 .featured-box--title {
   position: relative;
   display: block;
-  color: $colorTextBody;
+  color: $colorPrimary;
   font: {
     family: $accentFontStackBold;
     weight: $accentFontWeight;
@@ -3041,8 +3042,6 @@ $innerFilterIconWidth: 6px;
 
   a {
     color: $colorTextBody;
-    transform: capitalize;
-
 
     &:hover {
       color: $colorTextBody;
@@ -3051,7 +3050,7 @@ $innerFilterIconWidth: 6px;
 
   a,
   span {
-    transform: capitalize;
+    text-transform: capitalize;
     display: inline-block;
     padding: $gutter/2 7px $gutter/2 0;
     margin-right: 7px;
