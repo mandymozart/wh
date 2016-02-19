@@ -2681,7 +2681,9 @@ $shareBorderColor: #ececec;
 }
 
 .on-sale {
-
+  .product-item--price h1 {
+    margin-bottom: 0; 
+  }
 }
 
 @include at-query ($max, $medium) {
@@ -3116,6 +3118,11 @@ $innerFilterIconWidth: 6px;
   font-size: 32px;
   margin-bottom: 0;
   color: $colorNav;
+}
+
+.pstore-price {
+  text-decoration: line-through;
+  color: $colorSecondary !important;
 }
 
 .product-meta {

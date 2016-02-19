@@ -34,9 +34,7 @@
 
           {% if on_sale %}
             <span class="sale-tag medium-down--right{% if settings.product_reviews_enable %} has-reviews{% endif %}">
-              {% assign compare_price = product.compare_at_price %}
-              {% assign product_price = product.price %}
-              {% include 'price-sale' %}
+              statt  {{ product.compare_at_price_min | money }} im Geschäft 
             </span>
           {% endif %}
 

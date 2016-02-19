@@ -51,16 +51,14 @@
           <span id="productPrice" class="h1">
             {% include 'price' with variant.price %}
           </span>
+          {% if product.compare_at_price_max > product.price %}
+            <span id="comparePrice" class="pstore-price">
+              statt  {{ product.compare_at_price_max | money  }} <br> im Geschäft 
+            </span>
+          {% endif %}
         </li>
-        {% if product.compare_at_price_max > product.price %}
-        <li>
-          <span id="comparePrice" class="sale-tag large">
-            {% assign compare_price = variant.compare_at_price %}
-            {% assign product_price = variant.price %}
-            {% include 'price-sale' %}
-          </span>
-        </li>
-        {% endif %}
+
+
         {% if settings.product_reviews_enable %}
           <li class="product-meta--review">
             <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>
@@ -195,11 +193,14 @@
 
       // Also update and show the product's compare price if necessary
       if ( variant.compare_at_price > variant.price ) {
-        var priceSaving = timber.formatSaleTag( Shopify.formatMoney(variant.compare_at_price - variant.price, "{{ shop.money_format }}") );
+      
         {% comment %}
         priceSaving += ' (' + ( (variant.compare_at_price - variant.price)*100/(variant.compare_at_price) ).toFixed(0) + '%)';
         {% endcomment %}
-        $comparePrice.html({{ 'products.general.save_html' | t: saved_amount: '[$]' | json }}.replace('[$]', priceSaving)).show();
+
+        var storePrice = Shopify.formatMoney(variant.compare_at_price).replace('$','');
+        $comparePrice.html('statt €' + storePrice + ' <br> im Geschäft').show();
+
       } else {
         $comparePrice.hide();
       }
