@@ -2,104 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="205125ed-f605-42b9-8567-20ac0628e7f5" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\ajaxify.js.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\ajaxify.scss" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\ajaxify.scss.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-down.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-down.svg.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\arrow-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\cart.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\checkout.css.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\collection-view-grid.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\collection-view-list.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\hamburger.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\handlebars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\jquery.flexslider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\jquery.zoom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\logo1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\modernizr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\remove.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\respond-proxy.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\shop.js.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\slide_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\slide_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\timber.scss" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\timber.scss.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\assets\wh.scss" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\config\settings_data.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\config\settings_schema.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\layout\theme.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\de.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\en.default.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\es.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\fr.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\pt-BR.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\locales\pt-PT.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\advanced-tag-loop.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\ajax-cart-template.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\blog-sidebar.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\breadcrumb.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-grid-item.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-list-item.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-sidebar.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-sorting.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\collection-views.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\comment.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\featured-collection.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\featured-row.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\form-errors-custom.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\google-fonts.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\newsletter-form.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\oldIE-js.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\open-graph-tags.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\pagination-custom.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\price-sale.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\price.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\product-grid-item.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\product-list-item.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\related-products.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\respond.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\search-bar.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\search-result-grid.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\search-result.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\site-nav.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\slider.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\social-sharing.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\tags-article.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\toggle-filters.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\snippets\twitter-card.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\404.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\article.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\blog.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\cart.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\collection.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\collection.list.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\account.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\activate_account.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\addresses.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\login.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\order.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\register.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\customers\reset_password.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\gift_card.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\index.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\list-collections.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\page.contact.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\page.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\product.liquid" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\github\wh\templates\search.liquid" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/templates/cart.liquid" afterPath="$PROJECT_DIR$/shop/templates/cart.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/snippets/collection-sidebar.liquid" afterPath="$PROJECT_DIR$/shop/snippets/collection-sidebar.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/templates/collection.liquid" afterPath="$PROJECT_DIR$/shop/templates/collection.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/templates/collection.list.liquid" afterPath="$PROJECT_DIR$/shop/templates/collection.list.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/locales/de.json" afterPath="$PROJECT_DIR$/shop/locales/de.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/locales/en.default.json" afterPath="$PROJECT_DIR$/shop/locales/en.default.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/locales/es.json" afterPath="$PROJECT_DIR$/shop/locales/es.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/locales/fr.json" afterPath="$PROJECT_DIR$/shop/locales/fr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/snippets/product-grid-item.liquid" afterPath="$PROJECT_DIR$/shop/snippets/product-grid-item.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/snippets/product-list-item.liquid" afterPath="$PROJECT_DIR$/shop/snippets/product-list-item.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/templates/product.liquid" afterPath="$PROJECT_DIR$/shop/templates/product.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/locales/pt-BR.json" afterPath="$PROJECT_DIR$/shop/locales/pt-BR.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/locales/pt-PT.json" afterPath="$PROJECT_DIR$/shop/locales/pt-PT.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/config/settings_data.json" afterPath="$PROJECT_DIR$/shop/config/settings_data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/config/settings_schema.json" afterPath="$PROJECT_DIR$/shop/config/settings_schema.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/snippets/shipping-calculator.liquid" afterPath="$PROJECT_DIR$/shop/snippets/shipping-calculator.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/assets/shop.js.liquid" afterPath="$PROJECT_DIR$/shop/assets/shop.js.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/snippets/social-sharing.liquid" afterPath="$PROJECT_DIR$/shop/snippets/social-sharing.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/layout/theme.liquid" afterPath="$PROJECT_DIR$/shop/layout/theme.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/assets/timber.scss.liquid" afterPath="$PROJECT_DIR$/shop/assets/timber.scss.liquid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/assets/wh.scss" afterPath="$PROJECT_DIR$/shop/assets/wh.scss" />
     </list>
     <ignored path="wh.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -127,8 +50,8 @@
       <file leaf-file-name="theme.liquid" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/layout/theme.liquid">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.3384614" vertical-offset="10318" max-vertical-offset="15147">
-              <caret line="395" column="45" selection-start-line="395" selection-start-column="39" selection-end-line="395" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="10665" max-vertical-offset="15525">
+              <caret line="395" column="11" selection-start-line="395" selection-start-column="11" selection-end-line="395" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -137,8 +60,8 @@
       <file leaf-file-name="product.liquid" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shop/templates/product.liquid">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53634083" vertical-offset="8374" max-vertical-offset="9774">
-              <caret line="326" column="57" selection-start-line="326" selection-start-column="57" selection-end-line="326" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.7114178" vertical-offset="6831" max-vertical-offset="10233">
+              <caret line="274" column="17" selection-start-line="274" selection-start-column="17" selection-end-line="274" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -147,7 +70,7 @@
       <file leaf-file-name="timber.scss.liquid" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/assets/timber.scss.liquid">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.676923" vertical-offset="60133" max-vertical-offset="98820">
+            <state vertical-scroll-proportion="0.0" vertical-offset="60372" max-vertical-offset="100872">
               <caret line="2236" column="19" selection-start-line="2236" selection-start-column="19" selection-end-line="2236" selection-end-column="19" />
               <folding />
             </state>
@@ -167,8 +90,8 @@
       <file leaf-file-name="de.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/locales/de.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5170" max-vertical-offset="8316">
-              <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
+              <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -177,8 +100,8 @@
       <file leaf-file-name="settings_data.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/config/settings_data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1895" max-vertical-offset="3537">
-              <caret line="83" column="194" selection-start-line="83" selection-start-column="194" selection-end-line="83" selection-end-column="194" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
+              <caret line="0" column="194" selection-start-line="0" selection-start-column="194" selection-end-line="0" selection-end-column="194" />
               <folding />
             </state>
           </provider>
@@ -197,7 +120,7 @@
       <file leaf-file-name="cart.liquid" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/templates/cart.liquid">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.2222223" vertical-offset="3052" max-vertical-offset="3969">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3240" max-vertical-offset="3888">
               <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
               <folding />
             </state>
@@ -469,9 +392,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -479,6 +399,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -507,7 +430,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27292112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2761194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2516129" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -826,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/locales/de.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5170" max-vertical-offset="8316">
-          <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -864,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/config/settings_data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1895" max-vertical-offset="3537">
-          <caret line="83" column="194" selection-start-line="83" selection-start-column="194" selection-end-line="83" selection-end-column="194" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
+          <caret line="0" column="194" selection-start-line="0" selection-start-column="194" selection-end-line="0" selection-end-column="194" />
           <folding />
         </state>
       </provider>
@@ -880,7 +802,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/templates/cart.liquid">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.2222223" vertical-offset="3052" max-vertical-offset="3969">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3240" max-vertical-offset="3888">
           <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
           <folding />
         </state>
@@ -888,7 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/assets/timber.scss.liquid">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.676923" vertical-offset="60133" max-vertical-offset="98820">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60372" max-vertical-offset="100872">
           <caret line="2236" column="19" selection-start-line="2236" selection-start-column="19" selection-end-line="2236" selection-end-column="19" />
           <folding />
         </state>
@@ -899,23 +821,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="863">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/layout/theme.liquid">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.3384614" vertical-offset="10318" max-vertical-offset="15147">
-          <caret line="395" column="45" selection-start-line="395" selection-start-column="39" selection-end-line="395" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="10665" max-vertical-offset="15525">
+          <caret line="395" column="11" selection-start-line="395" selection-start-column="11" selection-end-line="395" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/templates/product.liquid">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53634083" vertical-offset="8374" max-vertical-offset="9774">
-          <caret line="326" column="57" selection-start-line="326" selection-start-column="57" selection-end-line="326" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.7114178" vertical-offset="6831" max-vertical-offset="10233">
+          <caret line="274" column="17" selection-start-line="274" selection-start-column="17" selection-end-line="274" selection-end-column="17" />
           <folding />
         </state>
       </provider>

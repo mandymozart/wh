@@ -2,23 +2,34 @@
 =          W & H COLORS        =
 ==============================*/
 
-$blue1 = #009cb4; 
-$blue2 = #00AEC4;
-$blue3 = #61C3D3;
-$blue4 = #A3D8E3;
-$blue5 = #D5ECF2;
+$blue1: #009cb4; 
+$blue2: #00AEC4;
+$blue3: #61C3D3;
+$blue4: #A3D8E3;
+$blue5: #D5ECF2;
 
-$grey1 = #85878B; 
-$grey2 = #9B9DA1;
-$grey3 = #B3B4B8;
-$grey4 = #CBCCCF;
-$grey5 = #E4E5E6;
+$grey1: #85878B; 
+$grey2: #9B9DA1;
+$grey3: #B3B4B8;
+$grey4: #CBCCCF;
+$grey5: #E4E5E6;
 
-$orange1 = #E84B04; 
-$orange2 = #EE7539;
-$orange3 = #F49B69;
-$orange4 = #F9BF9B;
-$orange5 = #FDE0CD;
+$orange1: #E84B04; 
+$orange2: #EE7539;
+$orange3: #F49B69;
+$orange4: #F9BF9B;
+$orange5: #FDE0CD;
 
 /*-----  End of COLORS  ------*/
+
+#kontakt {
+
+	td {
+		border: none;
+	}
+
+	tr > td {
+		width: 30%;
+	}
+}
 

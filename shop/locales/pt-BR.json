@@ -9,7 +9,7 @@
     },
     "404": {
       "title": "404 Página não encontrada",
-      "subtext_html": "A página que você solicitou não existe. Clique <a href=\"\/collections\/all\">aqui<\/a> para voltar às compras."
+      "subtext_html": "A página que você solicitou não existe. Clique <a href=\"/collections/all\">aqui</a> para voltar às compras."
     },
     "breadcrumbs": {
       "home": "Início",
@@ -17,7 +17,7 @@
     },
     "forms": {
       "post_error": "Desculpe, mas parece que algo deu errado. Por favor, corrija os itens a seguir e envie novamente:",
-      "post_field_error_html": "O campo <strong>{{ field }}<\/strong> {{ error }}"
+      "post_field_error_html": "O campo <strong>{{ field }}</strong> {{ error }}"
     },
     "search": {
       "no_results_html": "Sua busca por \"{{ terms }}\" não gerou resultados.",
@@ -70,7 +70,7 @@
       "update": "Atualizar carrinho",
       "checkout": "Fechar pedido",
       "empty": "Seu carrinho está vazio no momento.",
-      "continue_browsing_html": "Continue navegando <a href=\"\/collections\/all\">aqui<\/a>.",
+      "continue_browsing_html": "Continue navegando <a href=\"/collections/all\">aqui</a>.",
       "or": "ou",
       "view_cart": "Ver carrinho",
       "close_cart": "Fechar carrinho"
@@ -222,7 +222,7 @@
     "featured_collections": {
       "heading": "Comprar",
       "more_categories": "Mais categorias",
-      "no_collections_html": "Você não tem coleções para exibir aqui. <a href=\"\/admin\/themes\/\">Adicione algumas coleções em destaque<\/a> nas configurações do tema.",
+      "no_collections_html": "Você não tem coleções para exibir aqui. <a href=\"/admin/themes/\">Adicione algumas coleções em destaque</a> nas configurações do tema.",
       "collection_image": "Imagem da coleção",
       "example_collection": "Exemplo de coleção"
     },
@@ -230,7 +230,7 @@
       "heading": "Coleção em destaque",
       "more": "Mais",
       "no_products_in_collection_html": "Não há produtos na sua coleção {{ collection_title }}.",
-      "instructions_to_add_products_to_collection_html": "Este espaço reservado aparecerá até você <a href=\"{{ collection_admin_url }}\">adicionar um produto a esta coleção<\/a> ou desative a <em>Coleção em destaque {{ featured_row_index }}<\/em> nas configurações do tema.",
+      "instructions_to_add_products_to_collection_html": "Este espaço reservado aparecerá até você <a href=\"{{ collection_admin_url }}\">adicionar um produto a esta coleção</a> ou desative a <em>Coleção em destaque {{ featured_row_index }}</em> nas configurações do tema.",
       "add_a_product": "Adicione um produto",
       "example_product_title": "Exemplo de título de produto",
       "more_in_collection": "Mais {{ collection_title }}"

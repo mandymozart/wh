@@ -9,7 +9,7 @@
     },
     "404": {
       "title": "404 Página Não Encontrada",
-      "subtext_html": "A página que solicitou não existe. Clique <a href=\"\/collections\/all\">aqui<\/a> para continuar as suas compras."
+      "subtext_html": "A página que solicitou não existe. Clique <a href=\"/collections/all\">aqui</a> para continuar as suas compras."
     },
     "breadcrumbs": {
       "home": "Início",
@@ -17,7 +17,7 @@
     },
     "forms": {
       "post_error": "Lamentamos, mas parece que alguma coisa correu mal. Por favor, corrija os seguintes elementos e tente novamente:",
-      "post_field_error_html": "O campo <strong>{{ field }}<\/strong> {{ error }}"
+      "post_field_error_html": "O campo <strong>{{ field }}</strong> {{ error }}"
     },
     "search": {
       "no_results_html": "A sua pesquisa por \"{{ terms }}\" não produziu resultados.",
@@ -70,7 +70,7 @@
       "update": "Atualizar carrinho de compras",
       "checkout": "Check-Out",
       "empty": "O seu carrinho de compras está neste momento vazio.",
-      "continue_browsing_html": "Continue a ver <a href=\"\/collections\/all\">aqui<\/a>.",
+      "continue_browsing_html": "Continue a ver <a href=\"/collections/all\">aqui</a>.",
       "or": "ou",
       "view_cart": "Ver Carrinho de Compras",
       "close_cart": "Fechar Carrinho de Compras"
@@ -222,7 +222,7 @@
     "featured_collections": {
       "heading": "Procurar Por",
       "more_categories": "Mais categorias",
-      "no_collections_html": "Ainda não tem coleções para exibir aqui. <a href=\"\/admin\/themes\/\">Adicione algumas coleções em destaque<\/a> nas suas definições de tema.",
+      "no_collections_html": "Ainda não tem coleções para exibir aqui. <a href=\"/admin/themes/\">Adicione algumas coleções em destaque</a> nas suas definições de tema.",
       "collection_image": "Imagem de Coleção",
       "example_collection": "Coleção Exemplo"
     },
@@ -230,7 +230,7 @@
       "heading": "Coleção em Destaque",
       "more": "Mais",
       "no_products_in_collection_html": "Não tem produtos na sua coleção {{ collection_title }}.",
-      "instructions_to_add_products_to_collection_html": "Esta imagem de preenchimento será exibida até <a href=\"{{ collection_admin_url }}\">adicionar um produto a esta coleção<\/a> ou desativar <em>Fila de Destaque {{ featured_row_index }}<\/em> nas suas definições de tema.",
+      "instructions_to_add_products_to_collection_html": "Esta imagem de preenchimento será exibida até <a href=\"{{ collection_admin_url }}\">adicionar um produto a esta coleção</a> ou desativar <em>Fila de Destaque {{ featured_row_index }}</em> nas suas definições de tema.",
       "add_a_product": "Adicionar um Produto",
       "example_product_title": "Título do Produto Exemplo",
       "more_in_collection": "Mais {{ collection_title }}"

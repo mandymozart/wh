@@ -9,7 +9,7 @@
     },
     "404": {
       "title": "404 page non trouvée",
-      "subtext_html": "La page que vous avez demandée n'existe pas. Cliquez <a href=\"\/collections\/all\">ici<\/a> pour continuer à magasiner."
+      "subtext_html": "La page que vous avez demandée n'existe pas. Cliquez <a href=\"/collections/all\">ici</a> pour continuer à magasiner."
     },
     "breadcrumbs": {
       "home": "Accueil",
@@ -17,7 +17,7 @@
     },
     "forms": {
       "post_error": "Désolé, il semblerait qu'une erreur se soit produite. Veuillez corriger ce qui suit et soumettre à nouveau:",
-      "post_field_error_html": "Le <strong>{{ field }}<\/strong> {{ error }}"
+      "post_field_error_html": "Le <strong>{{ field }}</strong> {{ error }}"
     },
     "search": {
       "no_results_html": "Votre recherche, « {{ terms }} », n'a donné aucun résultat.",
@@ -70,7 +70,7 @@
       "update": "Mettre le panier à jour",
       "checkout": "Passer à la caisse",
       "empty": "Votre panier est vide actuellement.",
-      "continue_browsing_html": "Continuez à parcourir notre catalogue <a href=\"\/collections\/all\">ici<\/a>.",
+      "continue_browsing_html": "Continuez à parcourir notre catalogue <a href=\"/collections/all\">ici</a>.",
       "or": "ou",
       "view_cart": "Voir le panier",
       "close_cart": "Fermer le panier"
@@ -143,7 +143,7 @@
       "city": "Ville",
       "country": "Pays",
       "province": "Province",
-      "zip": "Code postal\/ZIP",
+      "zip": "Code postal/ZIP",
       "phone": "Téléphone",
       "set_default": "Définir comme adresse par défaut?",
       "add": "Ajouter une adresse",
@@ -222,7 +222,7 @@
     "featured_collections": {
       "heading": "Acheter",
       "more_categories": "Plus de catégories",
-      "no_collections_html": "Vous n'avez pas de collection à montrer ici. <a href=\"\/admin\/themes\/\">Ajoutez des collections en vedette<\/a> dans vos paramètres de thème.",
+      "no_collections_html": "Vous n'avez pas de collection à montrer ici. <a href=\"/admin/themes/\">Ajoutez des collections en vedette</a> dans vos paramètres de thème.",
       "collection_image": "Image de la collection",
       "example_collection": "Collection en exemple"
     },
@@ -230,7 +230,7 @@
       "heading": "Collection en vedette",
       "more": "Plus",
       "no_products_in_collection_html": "Il n'y a aucun produit dans votre collection {{ collection_title }}.",
-      "instructions_to_add_products_to_collection_html": "Cet espace réservé s'affichera jusqu'à ce que vous <a href=\"{{ collection_admin_url }}\">ajoutiez un produit à cette collection<\/a> ou désactiviez <em>la ligne en vedette {{ featured_row_index }}<\/em> dans vos paramètres de thème.",
+      "instructions_to_add_products_to_collection_html": "Cet espace réservé s'affichera jusqu'à ce que vous <a href=\"{{ collection_admin_url }}\">ajoutiez un produit à cette collection</a> ou désactiviez <em>la ligne en vedette {{ featured_row_index }}</em> dans vos paramètres de thème.",
       "add_a_product": "Ajouter un produit",
       "example_product_title": "Exemple de titre de produit",
       "more_in_collection": "Toute la collection {{ collection_title }}"

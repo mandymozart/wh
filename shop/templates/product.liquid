@@ -16,11 +16,13 @@
           <ul class="product-photo-thumbs grid-uniform" id="productThumbs">
 
             {% for image in product.images %}
+                {% if image.alt != 'sizes' %}
               <li class="grid-item medium-down--one-quarter large--one-quarter">
                 <a href="{{ image.src | img_url: 'large' }}" data-index="{{ forloop.index }}" class="product-photo-thumb">
                   <img src="{{ image.src | img_url: 'compact' }}" alt="{{ image.alt | escape }}">
                 </a>
               </li>
+              {% endif %}
             {% endfor %}
 
           </ul>
@@ -230,7 +232,7 @@
       $('#variantBreak').removeClass('hr--clear');
     {% endif %}
 
-
+      sizeChartImageOpen = false;
 
     <!-- Photoswipe -->
     {% if product.images.size >= 1 %}
@@ -238,14 +240,19 @@
         var items = [
                     {% for image in product.images %}
 
+            {% if image.alt != 'sizes' %}
+
                         {
                         title: '{{ image.alt | escape }}',
                         msrc: '{{ image.src | img_url: '1024x1024' }}',
                         src: '{{ image.src | img_url: '1024x1024' }}',
+                        alt: '{{ image.alt | escape }}',
                         w: 1024,
                         h: 1024
 
                         },
+
+            {% endif %}
 
                     {% endfor %}
                     ];
@@ -256,16 +263,25 @@
               {% if product.options.size == 1 and product.options.first == 'Größe' %}
                   $('.selector-wrapper:eq(0)').append('<span class="product-size-popup-link"><a href="#">Wie bemisst man richtig?</a></span>');
 
-                    var sizeObj = {
-                        title: 'Bemessungtabelle',
-                        msrc: '{{ 'size-info.jpg' | asset_url }}',
-                        src: '{{ 'size-info.jpg' | asset_url }}',
-                        w: 1024,
-                        h: 1024
+      {% for image in product.images %}
+      {% if image.alt == 'sizes' %}
 
-                    };
+      var sizeObj = {
+          title: '{{ image.alt | escape }}',
+          msrc: '{{ image.src | img_url: '1024x1024' }}',
+          src: '{{ image.src | img_url: '1024x1024' }}',
+          alt: '{{ image.alt | escape }}',
+          w: 1024,
+          h: 1024
+      };
 
-                    items.push(sizeObj);
+      {% endif %}
+      {%  endfor %}
+
+      items.push(sizeObj);
+
+
+
 
                     $('.product-size-popup-link').click(function(e){
 
